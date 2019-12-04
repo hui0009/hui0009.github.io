@@ -7,14 +7,12 @@ Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 [Link to another page](another-page).
 
-There should be whitespace between paragraphs.
+2. 人要懂得珍惜时光，不能丢了白天的太阳，又丢了夜晚的星星。天道酬勤的意思是，越努力，越幸运。你若不相信努力和时光，时光第一个辜负你。早安！
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
+2. 人要懂得珍惜时光，不能丢了白天的太阳，又丢了夜晚的星星。天道酬勤的意思是，越努力，越幸运。你若不相信努力和时光，时光第一个辜负你。早安！
 # [](#header-1)Header 1
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
+1.生活从不亏待每一个努力向上的人，未来的幸运都是过往努力的积攒，趁阳光正好做你想做的，趁你还年轻去追逐梦想。
 ## [](#header-2)Header 2
 
 > This is a blockquote following a header.

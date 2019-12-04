@@ -1,5 +1,5 @@
 ---
-title: Yet Another Sample Page
+title: 新的一天开始精美语句
 published: true
 ---
 
@@ -9,18 +9,16 @@ Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 There should be whitespace between paragraphs.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+多少次又多少次，回忆把生活划成一个圈，而我们在原地转了无数次，无法解脱。总是希望回到最初相识的地点，如果能够再一次选择的话，以为可以爱得更单纯。
 
 # [](#header-1)Header 1
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
+1. 对于过去，我们总在怀念。其实细细想想，其实自己是幸福的，但有时却让自己弄得一副痛苦的样子。我们应该快乐，不应该忧伤。无论为谁，都亦是如此，尤其是心底的那个最爱的人。
 ## [](#header-2)Header 2
 
-> This is a blockquote following a header.
+> 2. 成功从来不是稍踮脚尖就能得到的，所有的丰收都来自于你的奋力前行与脚踏实地。致勇往直前的我们。早安！
 >
-> When something is important enough, you do it even if the odds are not in your favor.
-
+> 在最好的年华里，不要辜负最美的自己。
 ### [](#header-3)Header 3
 
 ```js
@@ -40,9 +38,9 @@ end
 
 #### [](#header-4)Header 4
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+*   你可以不够漂亮但一定要有修养。你可以不够温柔但一定要善良。
+*   你可以不够聪明但要懂得学习。
+*   你可以没有理想但一定要学会奋斗。
 
 ##### [](#header-5)Header 5
 
